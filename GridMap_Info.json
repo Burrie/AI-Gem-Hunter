@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "info": "Quầy tham khảo",
+        "type": "text",
+        "description": "Đây là quầy tham khảo"
+    },
+    {
+        "id": 102,
+        "info": "2 phòng học nhóm",
+        "type": "text",
+        "description": "Đây là phòng học nhóm"
+    },
+    {
+        "id": 103,
+        "info": "Khu tự học",
+        "type": "text",
+        "description": "Đây là khu vực tự học"
+    },
+    {
+        "id": 104,
+        "info": "Khu vực máy tính",
+        "type": "text",
+        "description": "Đây là khu vực máy tính cho các bạn sinh viên dùng"
+    }
+]
