@@ -6,8 +6,8 @@
             "id": 101,
             "info": "Quầy tham khảo",
             "description": "Đây là quầy tham khảo",
-            "fileType": "image",
-            "fileURL": "https://drive.google.com/uc?export=download&id=1P2kw9-xcgOZMDEJxyN00pxwRMLzFxUj0"
+            "fileType": "video",
+            "fileURL": "https://drive.google.com/uc?export=download&id=1VWggz7fyVCSnaEWtOW1jXJbaxWY36cgL"
         },
         {
             "id": 102,
@@ -20,8 +20,8 @@
             "id": 103,
             "info": "Khu tự học",
             "description": "Đây là khu vực tự học",
-            "fileType": "text",
-            "fileURL": "."
+            "fileType": "image",
+            "fileURL": "https://drive.google.com/uc?export=download&id=1P2kw9-xcgOZMDEJxyN00pxwRMLzFxUj0"
         },
         {
             "id": 104,
@@ -33,3 +33,4 @@
     ]
 
 }
+
