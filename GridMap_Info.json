@@ -5,7 +5,7 @@
             "info": "Phòng học nhóm",
             "description": "Phòng học nhóm và phòng chuyên đề cho phép người dùng đặt phòng cho mục đích làm việc nhóm và trao đổi với bạn bè thuận lợi",
             "fileType": "url",
-            "fileURL": "Đặt phòng&https://glib.hcmus.edu.vn/utilities/room-booking"
+            "fileURL": "Đặt phòng & https://glib.hcmus.edu.vn/utilities/room-booking"
         },
         {
             "id": 104,
@@ -26,8 +26,9 @@
             "info": "Quầy tham khảo",
             "description": "Đây là quầy tham khảo, người dùng thư viện sẽ được hướng dẫn cách sử dụng các dịch vụ và tiện ích thư viện tại đây",
             "fileType": "url",
-            "fileURL": "Trang chủ&https://glib.hcmus.edu.vn/"
+            "fileURL": "Trang chủ & https://glib.hcmus.edu.vn/"
         }
     ]
 }
+
 
