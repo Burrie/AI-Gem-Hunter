@@ -1,37 +1,32 @@
 {
-
-    "destinations":
-    [
+    "destinations": [
         {
-            "id": 101,
-            "info": "Quầy tham khảo",
-            "description": "Đây là quầy tham khảo",
+            "id": 102,
+            "info": "Phòng học nhóm",
+            "description": "Phòng học nhóm và phòng chuyên đề cho phép người dùng đặt phòng cho mục đích làm việc nhóm và trao đổi với bạn bè thuận lợi",
+            "fileType": "url",
+            "fileURL": "Đặt phòng:https://glib.hcmus.edu.vn/utilities/room-booking"
+        },
+        {
+            "id": 104,
+            "info": "Khu vục sách",
+            "description": "Sách thuộc nhiều thể loại và chuyên ngành khác nhau được sắp xếp gọn gàng tại đây. Người dùng thư viện có thể tự do chọ nsách để đọc và để lại đúng nơi quy định",
             "fileType": "video",
             "fileURL": "https://drive.google.com/uc?export=download&id=1t3EuDGTu7KdehYQhHx1NumAM_Qpqd7VP"
         },
         {
-            "id": 102,
-            "info": "2 phòng học nhóm",
-            "description": "Đây là phòng học nhóm",
-            "fileType": "text",
-            "fileURL": "."
-        },
-        {
             "id": 103,
             "info": "Khu tự học",
-            "description": "Đây là khu vực tự học",
-            "fileType": "image",
-            "fileURL": "https://drive.google.com/uc?export=download&id=1P2kw9-xcgOZMDEJxyN00pxwRMLzFxUj0"
+            "description": "Người dùng thư viện có thể tự do sử dụng khu vực này để học tập, làm việc trong yên lặng, không làm phiền người bên cạnh",
+            "fileType": "text",
+            "fileURL": "..."
         },
         {
-            "id": 104,
-            "info": "Khu vực máy tính",
-            "description": "Đây là khu vực máy tính cho các bạn sinh viên dùng",
-            "fileType": "text",
-            "fileURL": "."
+            "id": 101,
+            "info": "Quầy tham khảo",
+            "description": "Đây là quầy tham khảo, người dùng thư viện sẽ được hướng dẫn cách sử dụng các dịch vụ và tiện ích thư viện tại đây",
+            "fileType": "url",
+            "fileURL": "Trang chủ:https://glib.hcmus.edu.vn/"
         }
     ]
-
 }
-
-
